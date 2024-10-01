@@ -1,2 +1,2 @@
 # Web-Dev
-Zerodha loading page using HTML and CSS
+HTML ,CSS, JS and Mern Stack , GIT
